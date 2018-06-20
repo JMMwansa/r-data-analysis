@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529406771556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2966874159",
+    "id" : "AFDF4629",
+    "lastKnownWriteTime" : 1529408699,
+    "last_content_update" : 1529408699572,
+    "path" : "C:/Users/joemw/Desktop/data-analysis/2_factors.R",
+    "project_path" : "2_factors.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

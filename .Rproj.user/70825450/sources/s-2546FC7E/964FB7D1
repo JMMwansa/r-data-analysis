@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529408704410.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3090410141",
+    "id" : "964FB7D1",
+    "lastKnownWriteTime" : 1529493493,
+    "last_content_update" : 1529493493773,
+    "path" : "C:/Users/joemw/Desktop/data-analysis/4_data-analysis_dplyr.R",
+    "project_path" : "4_data-analysis_dplyr.R",
+    "properties" : {
+        "cursorPosition" : "283,0",
+        "scrollLine" : "253",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
